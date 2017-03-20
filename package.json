@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
